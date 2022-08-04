@@ -9,8 +9,8 @@ geometry: margin=1in
 title: "CV"
 author: Jonathan A. Nations
 jobtitle: "NSF Postdoctoral Research Fellow"
-#address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
-jobtitle2: "University of Chicago | Field Museum of Natural History"
+address: "Department of the Geophysical Sciences"
+jobtitle2: "University of Chicago "
 address2: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
 fontawesome: yes
 email: jonnations@gmail.com
@@ -24,16 +24,23 @@ rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
 keywords: R Markdown, academic CV, template
 
+#fontawesome: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-linkcolor: blue
-urlcolor: blue
+linkcolor: black
+urlcolor: black
 ---
 
 # Education & Research Positions
 
-*Department of the Geophysical Sciences, University of Chicago* \hfill March 2021 - present
+2021 - 2024 \hfill National Science *Department of the Geophysical Sciences, University of Chicago*
+\begin{center}
+
+\textsc{Developmental Change in Vibration Sensing \& Vibration  \linebreak Cued Hatching Decisions in Red-Eyed Treefrogs}
+
+\end{center}
+
 
 Chief Brewer (Park Royal) \hfill 1935-1937
 
